@@ -1,2 +1,5 @@
 Group Project
 A new line
+Another line in 'cat branch'
+
+Our Group is going to do CASE 1,CASE 2.CASE 3.
