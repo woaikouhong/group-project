@@ -3,3 +3,11 @@ A new line
 Another line in 'cat branch'
 
 Our Group is going to do CASE 1,CASE 2.CASE 3.
+
+Case 1
+
+What facilities and equipment will be required (hard disk space, backup server, central repository, off-site repository, etc.) 
+What data management practices (backups, storage, access control,
+archiving etc.) will be used
+
+
