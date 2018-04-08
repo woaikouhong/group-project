@@ -11,3 +11,6 @@ What data management practices (backups, storage, access control,
 archiving etc.) will be used
 
 
+In this case, the data size is big and is keep renewing every day. According to the case, the first part of data is the ROMV data, which is collected monthly and converted to NetCDF formatted data for storage. Every day, there will be in total 800MB NetCDF data being produced, and the NetCDF data size so far has reached 500GB.  The Second part of the data is the field notes, the size of the data collect form filed notes is around 2GB so far. Third part is the csv files of complex stimulation models, which accumulated to 200GB now. 
+Our group conducted an estimation of a three-year data storage.  First for the NetCDF data, yearly storage that required is 800MB per day * 365 days equal to 285GB. In 3 years, NetCDF data would at least reach 285GB* 3 years which is 855GB. Second for the File notes the estimation is going to be doubled which is at lease 4GB in 3 years, due to the increase in funding. Third, suppose the stimulation models is going to increase at the same speed as the NetCDF data, therefore in 1 year it will reach (200GB/500GB) * 285GB=114GB. In three years would reach 114GB *3= 342GB. Therefore, in total the storage that Dr Periwinkle need will be at least 1201GB.
+
