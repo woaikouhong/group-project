@@ -1,5 +1,6 @@
 Group Project
 A new line
+<<<<<<< HEAD
 Another line in 'cat branch'
 
 Our Group is going to do CASE 1,CASE 2.CASE 3.
@@ -27,3 +28,6 @@ The data need to be stored and protected over a ten years duration. Multiple bac
 
 
 
+=======
+Another line in 'cat branch'
+>>>>>>> cat
